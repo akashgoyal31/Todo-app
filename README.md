@@ -48,3 +48,6 @@ Once the app is running, you can:
 -   **Delete a task** by clicking the delete icon.
 
 -   **Mark tasks as completed** to keep track of your progress.
+
+![](./image1.jpeg){width="6.268055555555556in"
+height="2.8583333333333334in"}
